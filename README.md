@@ -22,7 +22,4 @@
   <a href="https://instagram.com/_onyxxvvaris_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
-  </a>
 </p>
